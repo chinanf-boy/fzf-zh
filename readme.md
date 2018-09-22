@@ -27,9 +27,9 @@
 <!-- doc-templite END generated -->
 
 - [x] readme
-- [ ] README-VIM.md
-- [ ] CHANGELOG.md
-- [ ] BUILD.md
+- [ ] [README-VIM.md](README-VIM.zh.md)
+- [ ] [CHANGELOG.md](CHANGELOG.zh.md)
+- [ ] [BUILD.md](BUILD.zh.md)
 
 
 ### 贡献
