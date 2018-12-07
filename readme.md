@@ -12,7 +12,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'junegunn/fzf' -->
@@ -24,12 +24,12 @@
 
 [last]: https://img.shields.io/github/last-commit/junegunn/fzf.svg
 [commit]: https://github.com/junegunn/fzf/tree/8540902a35361dba217cc3ad86ff2215ae51918e
+
 <!-- doc-templite END generated -->
 
 - [x] readme
-- [ ] [README-VIM.md](README-VIM.zh.md)
-- [ ] [CHANGELOG.md](CHANGELOG.zh.md)
-- [ ] [BUILD.md](BUILD.zh.md)
+- [x] [README-VIM.md](README-VIM.zh.md)
+- [x] [BUILD.md](BUILD.zh.md)
 
 
 ### 贡献
@@ -63,6 +63,29 @@ fzf是一种通用的命令行模糊查找器.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [安装](#%E5%AE%89%E8%A3%85)
+  - [使用Homebrew或Linuxbrew](#%E4%BD%BF%E7%94%A8homebrew%E6%88%96linuxbrew)
+  - [用git](#%E7%94%A8git)
+  - [作为Vim插件](#%E4%BD%9C%E4%B8%BAvim%E6%8F%92%E4%BB%B6)
+  - [Arch Linux](#arch-linux)
+  - [Fedora](#fedora)
+  - [Windows](#windows)
+- [升级fzf](#%E5%8D%87%E7%BA%A7fzf)
+- [构建fzf](#%E6%9E%84%E5%BB%BAfzf)
+- [用法](#%E7%94%A8%E6%B3%95)
+- [例子](#%E4%BE%8B%E5%AD%90)
+- [`fzf-tmux`脚本](#fzf-tmux%E8%84%9A%E6%9C%AC)
+- [命令行的键绑定](#%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E9%94%AE%E7%BB%91%E5%AE%9A)
+- [bash和zsh的模糊完成](#bash%E5%92%8Czsh%E7%9A%84%E6%A8%A1%E7%B3%8A%E5%AE%8C%E6%88%90)
+- [Vim插件](#vim%E6%8F%92%E4%BB%B6)
+- [高级主题](#%E9%AB%98%E7%BA%A7%E4%B8%BB%E9%A2%98)
+  - [性能](#%E6%80%A7%E8%83%BD)
+  - [执行外部程序](#%E6%89%A7%E8%A1%8C%E5%A4%96%E9%83%A8%E7%A8%8B%E5%BA%8F)
+  - [预览窗口](#%E9%A2%84%E8%A7%88%E7%AA%97%E5%8F%A3)
+- [提示](#%E6%8F%90%E7%A4%BA)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,7 +199,7 @@ fzf正在积极开发中,您可能希望偶尔升级一次. 请根据按照以�
 
 ## 构建fzf
 
-- [ ] 看到[BUILD.md](BUILD.zh.md).
+- [x] 看到[BUILD.md](BUILD.zh.md).
 
 ## 用法
 
@@ -392,7 +415,7 @@ complete -F _fzf_dir_completion -o default -o bashdefault tree
 
 ## Vim插件
 
-- [ ] 看[README-VIM.md](README-VIM.zh.md).
+- [x] 看[README-VIM.md](README-VIM.zh.md).
 
 ## 高级主题
 
